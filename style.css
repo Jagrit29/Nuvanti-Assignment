@@ -1,0 +1,29 @@
+.rightdiv
+{
+    padding: 5px;
+    padding-top: 0px;
+}
+.rightdiv img
+{
+    padding-right: 5px;
+}
+
+@media only screen and (max-width: 1000px) 
+{
+    .image1
+    {
+        width: 400px;
+        align-items: center;
+    }
+}
+footer
+{
+    margin-top: 50px;
+}
+center
+{
+    background-color: bisque;
+    border: 1px solid black;
+    border-radius:10px;
+    padding-top: 2px;
+}
